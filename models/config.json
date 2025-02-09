@@ -1,0 +1,28 @@
+{
+    "urls": {
+        "base_en": "https://www.dropbox.com/s/d6qb4o96b0o0bcl/base_en_model.pt?dl=1",
+        "base_multi": "https://www.dropbox.com/s/7kqpue5g1f45f0x/base_multi_model.pt?dl=1",
+        "small_multi" : "https://www.dropbox.com/s/l9ti33nfdkls1n4/small_multi_model.pt?dl=1",
+        "small_ar" : "https://www.dropbox.com/s/svwjrd129mel601/small_ar_model.pt?dl=1",
+        "small_cs" : "https://www.dropbox.com/s/0a1gxyi1kt740me/small_cs_model.pt?dl=1",
+        "small_de" : "https://www.dropbox.com/s/rmcuirj9tz527s3/small_de_model.pt?dl=1",
+        "small_el" : "https://www.dropbox.com/s/7pghc17qqn7b433/small_el_model.pt?dl=1",
+        "small_en" : "https://www.dropbox.com/s/yj3hcolw054h26a/small_en_model.pt?dl=1",
+        "small_et" : "https://www.dropbox.com/s/p7bi91fcupj0ufo/small_et_model.pt?dl=1",
+        "small_es": "https://www.dropbox.com/s/xf5awxt420072y4/small_es_model.pt?dl=1",
+        
+        "small_fa" : "https://www.dropbox.com/s/sqptds0gobof7l8/small_fa_model.pt?dl=1",
+        "small_fr" : "https://www.dropbox.com/s/c5kg87y363c6fwz/small_fr_model.pt?dl=1",
+        "small_id" : "https://www.dropbox.com/s/ll16kp6ir3ncdbs/small_id_model.pt?dl=1",
+        "small_it" : "https://www.dropbox.com/s/tj3zjor6mwpid1b/small_it_model.pt?dl=1",
+        "small_ky" : "https://www.dropbox.com/s/860igenj8q40k6a/small_ky_model.pt?dl=1",
+        "small_nl" : "https://www.dropbox.com/s/fbavn10ut72fjjx/small_nl_model.pt?dl=1",
+        "small_pl" : "https://www.dropbox.com/s/hn963bdgp4sqv5b/small_pl_model.pt?dl=1",
+        "small_pt" : "https://www.dropbox.com/s/koolgrs35nbzmt4/small_pt_model.pt?dl=1",
+        "small_ru" : "https://www.dropbox.com/s/kqtsur47syzqvk0/small_rw_model.pt?dl=1",
+        "small_rw" : "https://www.dropbox.com/s/kqtsur47syzqvk0/small_rw_model.pt?dl=1",
+        "small_sv-SE" : "https://www.dropbox.com/s/2qv6u5ns8rb9vhi/small_sv-SE_model.pt?dl=1",
+        "small_tr" : "https://www.dropbox.com/s/jir945jqkdq61w8/small_tr_model.pt?dl=1",
+        "small_tt" : "https://www.dropbox.com/s/bzymm5s7rujximz/small_tt_model.pt?dl=1"
+    }
+}
